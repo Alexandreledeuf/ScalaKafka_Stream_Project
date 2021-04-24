@@ -1,0 +1,4 @@
+Date;ID_Drone;Population;Longitude;Latitude;CitizenName;CitizenScore;Word
+"2021-01-24";891;4;0.06866514682769775;0.3163433074951172;"Mickael";2;List("Mot", "crime", "snow", "urgency", "ring", "water")
+"2021-05-08";547;3;0.48181211948394775;0.1824846863746643;"Jane";0;List("Mot", "pineapple", "pencil", "threat", "turtle", "glasses", "water", "fire", "pencil", "safe", "good", "police", "good", "fireworks", "bad", "afraid")
+"2021-10-23";685;3;0.3115297555923462;0.5042498707771301;"Daniel";19;List("Mot", "bad", "snow", "bad")

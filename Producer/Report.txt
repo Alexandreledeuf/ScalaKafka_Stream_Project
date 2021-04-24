@@ -1,0 +1,1 @@
+Date2021-01-18ID DRONE :759,Population:0, LOCALISATION [0.9561275;0.80786014],CitizenName:List(), CitizenScore:List(),Mot:List()

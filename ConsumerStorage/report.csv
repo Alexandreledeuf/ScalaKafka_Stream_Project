@@ -1,0 +1,10 @@
+Date;ID_Drone;Population;Longitude;Latitude;CitizenName;CitizenScore;Word
+"2021-01-18";759;0;0.9561275243759155;0.8078601360321045;List();List();List("CitizenScore", , "Mot")
+"2021-01-24";891;4;0.06866514682769775;0.3163433074951172;List("Mickael", "Mickael", "Mary", "Patrick");List(2, 44, 31, 51);List("Mot", "crime", "snow", "urgency", "ring", "water")
+"2021-05-08";547;3;0.48181211948394775;0.1824846863746643;List("Mary", "Jane", "Edith");List(97, 0, 84);List("Mot", "pineapple", "pencil", "threat", "turtle", "glasses", "water", "fire", "pencil", "safe", "good", "police", "good", "fireworks", "bad", "afraid")
+"2021-02-01";72;0;0.3540799617767334;0.1658661961555481;List();List();List("CitizenScore", , "Mot", "candle", "glasses", "happy", "yes", "fireworks", "snow", "candle", "pineapple", "bad", "yes", "urgency", "good")
+"2021-03-18";448;0;0.028583407402038574;0.47466689348220825;List();List();List("CitizenScore", , "Mot", "police", "candle", "crime", "happy")
+"2021-08-08";186;0;0.22346293926239014;0.6342520117759705;List();List();List("CitizenScore", , "Mot", "pencil", "turtle", "water", "happy", "threat", "ok", "police", "yes", "crime", "pencil", "pencil", "fireworks", "water", "snow", "crime")
+"2021-07-05";659;3;0.9408244490623474;0.25450778007507324;List("Daniel", "Rihanna", "Edith");List(93, 79, 46);List("Mot")
+"2021-01-13";901;0;0.1328842043876648;0.25717461109161377;List();List();List("CitizenScore", , "Mot", "glasses", "snow", "good", "pineapple", "yes", "crime", "ok", "turtle", "happy")
+"2021-10-23";685;3;0.3115297555923462;0.5042498707771301;List("Daniel", "Jerry", "Mickael");List(19, 66, 87);List("Mot", "bad", "snow", "bad")
