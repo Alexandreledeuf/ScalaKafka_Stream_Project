@@ -32,4 +32,4 @@
 
 # Architecture
 
-<p align="center"><img src="Architecture.jpg"\></p>
+<p align="center"><img src="Architecture.JPG"\></p>
